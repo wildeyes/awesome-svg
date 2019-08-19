@@ -4,7 +4,6 @@
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [Bonsai.js](http://bonsaijs.org/)
 * [C3.js](https://github.com/masayuki0812/c3)
-* [Charted](http://www.charted.co/)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
 * [D3.js](http://d3js.org/)
 * [DrawSVG](https://github.com/petercollingridge/DrawSVG)
